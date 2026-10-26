@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-selkies:debiantrixie
+FROM ghcr.io/linuxserver-playground/baseimage-selkies:debiantrixie
 
 # set version label
 ARG BUILD_DATE
